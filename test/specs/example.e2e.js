@@ -1,4 +1,10 @@
+
 describe('My Login application', () => {
+    before( () => {
+        browser.maximizeWindow();
+    })
+
+
     it('should login with valid credentials', async () => {
         await browser.url(`https://the-internet.herokuapp.com/login`)
 
