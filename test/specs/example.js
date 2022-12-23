@@ -1,5 +1,5 @@
 import { expect } from "chai";
-import expected from './../../data/expected.json';
+//import expected from './../../data/expected.json';
 
 describe('User registers into the system', () => {
     before(() => {
@@ -40,27 +40,4 @@ describe('User registers into the system', () => {
 
         await browser.pause(3000);
     });
-    //
-    // it('Should verify that login input field accept valid data', () => {
-    //     const element = "//input[@id='user-name']";
-    //     const loginName = 'standard_user';
-    //     expect($(element).setValue(loginName));
-    // })
-    //
-    // it('Should verify that login input field accept valid data', () => {
-    //     const elementPassword = "//input[@id='password']";
-    //     const password = 'secret_sauce';
-    //     expect($(elementPassword).setValue(password));
-    // })
-    //
-    // it('Should verify that login input field accept valid data', () => {
-    //     const singInButton = "//input[@id='login-button']";
-    //     $(singInButton).click();
-    // })
-    //
-    // it('Should verify that login input field accept valid data', async () => {
-    //     await browser.setTimeout({ 'implicit': 5000 })
-    //     const products = await $("//span[contains(text(),'Products')]");
-    //     await expect($(products).getText()).to.equal("Products");
-    // })
 })
