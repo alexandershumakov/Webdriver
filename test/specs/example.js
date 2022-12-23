@@ -1,5 +1,5 @@
 import { expect } from "chai";
-//import expected from './../../data/expected.json';
+import expected from './../../data/expected.json';
 
 describe('User registers into the system', () => {
     before(() => {
