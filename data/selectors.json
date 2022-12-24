@@ -1,0 +1,15 @@
+{
+  "registerLink": "//ul//a[@tabindex ='9']",
+  "userName": "//input[@id='tuserName']",
+  "password": "//input[@id='tPassword']",
+  "passwordReType": "//input[@id='tPasswordRetype']",
+  "firstQuestionDropdown": "//select[@id='ssec1']",
+  "yourAnswerField": "//input[@id='tsecAnswer1']",
+  "retypeAnswerField": "//input[@id='tsecAnswer1Match']",
+  "secondQuestionDropdown": "//select[@id='ssec2']",
+  "yourAnswerField2": "//input[@id='tsecAnswer2']",
+  "retypeAnswerField2": "//input[@id='tsecAnswer2Match']",
+  "account1RadioButton": "//label[@id='for-rAccount1']",
+  "title": "//select[@id='stitle']",
+  "firstName": "//input[@id='tfName']"
+}

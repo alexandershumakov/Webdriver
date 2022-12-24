@@ -1,0 +1,13 @@
+{
+  "userName": "shumm4ik",
+  "password": "Qw12345@",
+  "passwordReType": "Qw12345@",
+  "firstQuestionDropdown": "What is the name of your pet?",
+  "yourAnswerField": "test1",
+  "retypeAnswerField": "test1",
+  "secondQuestionDropdown": "In what city were you born?",
+  "yourAnswerField2": "test2",
+  "retypeAnswerField2": "test2",
+  "title": "Mr",
+  "firstName": "Odin"
+}
